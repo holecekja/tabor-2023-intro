@@ -1,0 +1,3 @@
+Video size: 2520x1080
+Project size: 1920x1080
+Ubrat z kazde strany: 300
